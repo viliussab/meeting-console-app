@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "meeting-console-app", "meeting-console-app\meeting-console-app.csproj", "{91E2F371-8E4C-409F-8ABC-74E399523827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meeting-tests", "meeting-tests\meeting-tests.csproj", "{2E315DA3-ECE3-43D7-A99A-A5329DC6B014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E2F371-8E4C-409F-8ABC-74E399523827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E2F371-8E4C-409F-8ABC-74E399523827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E2F371-8E4C-409F-8ABC-74E399523827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E2F371-8E4C-409F-8ABC-74E399523827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E315DA3-ECE3-43D7-A99A-A5329DC6B014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E315DA3-ECE3-43D7-A99A-A5329DC6B014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E315DA3-ECE3-43D7-A99A-A5329DC6B014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E315DA3-ECE3-43D7-A99A-A5329DC6B014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2BE0945-2FE5-45A2-8806-350D62FB0184}
+	EndGlobalSection
+EndGlobal
